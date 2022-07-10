@@ -3,4 +3,4 @@ install 3 package using this command
 -pip install mediapipe
 -pip install PyAutoGUI
 
-Then Run code in any editor.
+Then Run main.py file in editor.
